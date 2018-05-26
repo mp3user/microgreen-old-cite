@@ -3,4 +3,4 @@
 
 User-agent: *
 Allow: /
-Host: microzelen.com
+Host: minizelen.ru
